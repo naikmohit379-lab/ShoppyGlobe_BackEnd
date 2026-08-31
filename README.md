@@ -432,6 +432,8 @@ MongoDB Atlas is used for database storage.
 
 The complete backend source code is available in the GitHub repository.
 
+link:https://github.com/naikmohit379-lab/ShoppyGlobe_BackEnd
+
 Make sure the `.env` file is excluded from the repository before pushing the project.
 
 ---
